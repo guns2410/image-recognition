@@ -9,7 +9,7 @@ clone the repo and run
 pip3 install -r requirements.txt
 ```
 
-Download the models
+Download the models and place them in the models directory
 - [DenseNet121](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/DenseNet-BC-121-32.h5)
 - [resnet50_coco_best_v2.0.1.h5](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5)
 
